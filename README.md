@@ -4,6 +4,6 @@
 - 📫 Contact me [here](https://samm4x.xyz/contact)!
 - 🌱 I’m currently learning C# and Python
 
-[website]:	https://img.shields.io/badge/-Website-lime?style=for-the-badge&logo=github&logoColor=black&color=black
-[discord]:	https://img.shields.io/badge/-Discord-lime?style=for-the-badge&logo=discord&logoColor=black&color=black
-[email]:	https://img.shields.io/badge/-E--Mail-lime?style=for-the-badge&logo=gmail&logoColor=black&color=black
+[website]:	https://img.shields.io/badge/-Website-lime?style=for-the-badge&logo=github&logoColor=white&color=black
+[discord]:	https://img.shields.io/badge/-Discord-lime?style=for-the-badge&logo=discord&logoColor=white&color=black
+[email]:	https://img.shields.io/badge/-E--Mail-lime?style=for-the-badge&logo=gmail&logoColor=white&color=black
