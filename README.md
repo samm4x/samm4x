@@ -11,4 +11,4 @@
 [patreon]: https://img.shields.io/badge/-Patreon-lime?style=for-the-badge&logo=patreon&logoColor=white&color=black
 [telegram]: https://img.shields.io/badge/-Telegram-lime?style=for-the-badge&logo=telegram&logoColor=white&color=black
 
-<sub><sup>Social badge icons provided by [shields.io](shields.io)</sup></sub>
+<sub><sup>Social badge icons provided by [shields.io](https://shields.io)</sup></sub>
