@@ -1,4 +1,3 @@
-# 👋 Hi there, I'm samm4x! 
 ### ​ [![Website][website]](https://samm4x.xyz) [![Discord][discord]](https://discord.gg/AHx8afY) [![EMail][email]](mailto:hello@samm4x.xyz) [![twitter][twitter]](https://twitter.com/samm4x_/) [![instagram][instagram]](https://instagram.com/samm4x/) [![patreon][patreon]](https://patreon.com/samm4x/) [![telegram][telegram]](https://t.me/samm4x/) 
 
 [website]:	https://img.shields.io/badge/-Website-lime?style=for-the-badge&logo=github&logoColor=white&color=black
